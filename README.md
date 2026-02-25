@@ -67,6 +67,26 @@
 </details>
 
 <details>
+<summary>🕹️ <b>Boss Fight: Play Snake!</b> <i>(click to play)</i></summary>
+<br>
+
+<div align="center">
+
+**Think you've got reflexes? Prove it.**
+
+### [🐍 Play Ram's Nokia Snake Game](https://ramachandrakulkarni.github.io/RamachandraKulkarni/snake.html)
+
+> A fully working retro Nokia-style Snake game — right from my profile.  
+> Eat the apples 🍎, grow longer, don't hit the walls or yourself!  
+> **Controls:** Arrow keys / WASD / swipe on mobile / on-screen buttons
+
+*Beat my high score and earn +100 XP bragging rights.*
+
+</div>
+
+</details>
+
+<details>
 <summary>🥚 <b>Secret Room</b> <i>(are you sure?)</i></summary>
 <br>
 
