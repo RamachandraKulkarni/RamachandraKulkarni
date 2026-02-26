@@ -704,5 +704,68 @@
 .c8 { animation: c8 15.3s steps(1) infinite; opacity:0; }
 
 </style>
-<rect width="320" height="289" rx="8" fill="#2c2c54"/><rect x="10" y="34" width="300" height="225" class="board"/><line x1="10" y1="34" x2="10" y2="259" class="gl"/><line x1="25" y1="34" x2="25" y2="259" class="gl"/><line x1="40" y1="34" x2="40" y2="259" class="gl"/><line x1="55" y1="34" x2="55" y2="259" class="gl"/><line x1="70" y1="34" x2="70" y2="259" class="gl"/><line x1="85" y1="34" x2="85" y2="259" class="gl"/><line x1="100" y1="34" x2="100" y2="259" class="gl"/><line x1="115" y1="34" x2="115" y2="259" class="gl"/><line x1="130" y1="34" x2="130" y2="259" class="gl"/><line x1="145" y1="34" x2="145" y2="259" class="gl"/><line x1="160" y1="34" x2="160" y2="259" class="gl"/><line x1="175" y1="34" x2="175" y2="259" class="gl"/><line x1="190" y1="34" x2="190" y2="259" class="gl"/><line x1="205" y1="34" x2="205" y2="259" class="gl"/><line x1="220" y1="34" x2="220" y2="259" class="gl"/><line x1="235" y1="34" x2="235" y2="259" class="gl"/><line x1="250" y1="34" x2="250" y2="259" class="gl"/><line x1="265" y1="34" x2="265" y2="259" class="gl"/><line x1="280" y1="34" x2="280" y2="259" class="gl"/><line x1="295" y1="34" x2="295" y2="259" class="gl"/><line x1="310" y1="34" x2="310" y2="259" class="gl"/><line x1="10" y1="34" x2="310" y2="34" class="gl"/><line x1="10" y1="49" x2="310" y2="49" class="gl"/><line x1="10" y1="64" x2="310" y2="64" class="gl"/><line x1="10" y1="79" x2="310" y2="79" class="gl"/><line x1="10" y1="94" x2="310" y2="94" class="gl"/><line x1="10" y1="109" x2="310" y2="109" class="gl"/><line x1="10" y1="124" x2="310" y2="124" class="gl"/><line x1="10" y1="139" x2="310" y2="139" class="gl"/><line x1="10" y1="154" x2="310" y2="154" class="gl"/><line x1="10" y1="169" x2="310" y2="169" class="gl"/><line x1="10" y1="184" x2="310" y2="184" class="gl"/><line x1="10" y1="199" x2="310" y2="199" class="gl"/><line x1="10" y1="214" x2="310" y2="214" class="gl"/><line x1="10" y1="229" x2="310" y2="229" class="gl"/><line x1="10" y1="244" x2="310" y2="244" class="gl"/><line x1="10" y1="259" x2="310" y2="259" class="gl"/><rect x="10" y="34" width="300" height="225" class="br"/><text x="14" y="26" class="tt">SNAKE</text><text x="306" y="26" class="tt" text-anchor="end">Nokia Edition</text><ellipse class="eg" cx="0" cy="0" rx="6" ry="8" fill="#FFFDE7" stroke="#FFD54F" stroke-width="1"/><rect class="s0" width="13" height="13" rx="3" fill="#9acd32"/><rect class="s1" width="13" height="13" rx="2" fill="rgb(50,193,50)"/><rect class="s2" width="13" height="13" rx="2" fill="rgb(50,182,50)"/><rect class="s3" width="13" height="13" rx="2" fill="rgb(50,171,50)"/><rect class="s4" width="13" height="13" rx="2" fill="rgb(50,160,50)"/><rect class="s5" width="13" height="13" rx="2" fill="rgb(50,149,50)"/><rect class="s6" width="13" height="13" rx="2" fill="rgb(50,137,50)"/><rect class="s7" width="13" height="13" rx="2" fill="rgb(50,126,50)"/><rect class="s8" width="13" height="13" rx="2" fill="rgb(50,115,50)"/><rect class="s9" width="13" height="13" rx="2" fill="rgb(50,104,50)"/><rect class="s10" width="13" height="13" rx="2" fill="rgb(50,93,50)"/><text x="14" y="275" class="st">Eggs:</text><text x="52" y="275" class="st c0">0</text><text x="52" y="275" class="st c1">1</text><text x="52" y="275" class="st c2">2</text><text x="52" y="275" class="st c3">3</text><text x="52" y="275" class="st c4">4</text><text x="52" y="275" class="st c5">5</text><text x="52" y="275" class="st c6">6</text><text x="52" y="275" class="st c7">7</text><text x="52" y="275" class="st c8">8</text>
+<rect width="320" height="289" rx="8" fill="#2c2c54"/>
+<rect x="10" y="34" width="300" height="225" class="board"/>
+<line x1="10" y1="34" x2="10" y2="259" class="gl"/>
+<line x1="25" y1="34" x2="25" y2="259" class="gl"/>
+<line x1="40" y1="34" x2="40" y2="259" class="gl"/>
+<line x1="55" y1="34" x2="55" y2="259" class="gl"/>
+<line x1="70" y1="34" x2="70" y2="259" class="gl"/>
+<line x1="85" y1="34" x2="85" y2="259" class="gl"/>
+<line x1="100" y1="34" x2="100" y2="259" class="gl"/>
+<line x1="115" y1="34" x2="115" y2="259" class="gl"/>
+<line x1="130" y1="34" x2="130" y2="259" class="gl"/>
+<line x1="145" y1="34" x2="145" y2="259" class="gl"/>
+<line x1="160" y1="34" x2="160" y2="259" class="gl"/>
+<line x1="175" y1="34" x2="175" y2="259" class="gl"/>
+<line x1="190" y1="34" x2="190" y2="259" class="gl"/>
+<line x1="205" y1="34" x2="205" y2="259" class="gl"/>
+<line x1="220" y1="34" x2="220" y2="259" class="gl"/>
+<line x1="235" y1="34" x2="235" y2="259" class="gl"/>
+<line x1="250" y1="34" x2="250" y2="259" class="gl"/>
+<line x1="265" y1="34" x2="265" y2="259" class="gl"/>
+<line x1="280" y1="34" x2="280" y2="259" class="gl"/>
+<line x1="295" y1="34" x2="295" y2="259" class="gl"/>
+<line x1="310" y1="34" x2="310" y2="259" class="gl"/>
+<line x1="10" y1="34" x2="310" y2="34" class="gl"/>
+<line x1="10" y1="49" x2="310" y2="49" class="gl"/>
+<line x1="10" y1="64" x2="310" y2="64" class="gl"/>
+<line x1="10" y1="79" x2="310" y2="79" class="gl"/>
+<line x1="10" y1="94" x2="310" y2="94" class="gl"/>
+<line x1="10" y1="109" x2="310" y2="109" class="gl"/>
+<line x1="10" y1="124" x2="310" y2="124" class="gl"/>
+<line x1="10" y1="139" x2="310" y2="139" class="gl"/>
+<line x1="10" y1="154" x2="310" y2="154" class="gl"/>
+<line x1="10" y1="169" x2="310" y2="169" class="gl"/>
+<line x1="10" y1="184" x2="310" y2="184" class="gl"/>
+<line x1="10" y1="199" x2="310" y2="199" class="gl"/>
+<line x1="10" y1="214" x2="310" y2="214" class="gl"/>
+<line x1="10" y1="229" x2="310" y2="229" class="gl"/>
+<line x1="10" y1="244" x2="310" y2="244" class="gl"/>
+<line x1="10" y1="259" x2="310" y2="259" class="gl"/>
+<rect x="10" y="34" width="300" height="225" class="br"/>
+<text x="14" y="26" class="tt">SNAKE</text>
+<text x="306" y="26" class="tt" text-anchor="end">Nokia Edition</text>
+<ellipse class="eg" cx="0" cy="0" rx="6" ry="8" fill="#FFFDE7" stroke="#FFD54F" stroke-width="1"/>
+<rect class="s0" width="13" height="13" rx="3" fill="#9acd32"/>
+<rect class="s1" width="13" height="13" rx="2" fill="rgb(50,193,50)"/>
+<rect class="s2" width="13" height="13" rx="2" fill="rgb(50,182,50)"/>
+<rect class="s3" width="13" height="13" rx="2" fill="rgb(50,171,50)"/>
+<rect class="s4" width="13" height="13" rx="2" fill="rgb(50,160,50)"/>
+<rect class="s5" width="13" height="13" rx="2" fill="rgb(50,149,50)"/>
+<rect class="s6" width="13" height="13" rx="2" fill="rgb(50,137,50)"/>
+<rect class="s7" width="13" height="13" rx="2" fill="rgb(50,126,50)"/>
+<rect class="s8" width="13" height="13" rx="2" fill="rgb(50,115,50)"/>
+<rect class="s9" width="13" height="13" rx="2" fill="rgb(50,104,50)"/>
+<rect class="s10" width="13" height="13" rx="2" fill="rgb(50,93,50)"/>
+<text x="14" y="275" class="st">Eggs:</text>
+<text x="52" y="275" class="st c0">0</text>
+<text x="52" y="275" class="st c1">1</text>
+<text x="52" y="275" class="st c2">2</text>
+<text x="52" y="275" class="st c3">3</text>
+<text x="52" y="275" class="st c4">4</text>
+<text x="52" y="275" class="st c5">5</text>
+<text x="52" y="275" class="st c6">6</text>
+<text x="52" y="275" class="st c7">7</text>
+<text x="52" y="275" class="st c8">8</text>
 </svg>
