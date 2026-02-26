@@ -158,7 +158,7 @@
       </div>
     </div>
     <div class="info">
-      <span>🍎 <span id="score">0</span></span>
+      <span>🥚 <span id="score">0</span></span>
       <span>🏆 <span id="best">0</span></span>
     </div>
   </div>
@@ -230,13 +230,18 @@ function draw() {
     ctx.stroke();
   }
 
-  // Food
-  ctx.fillStyle = '#ff4444';
-  ctx.shadowColor = '#ff4444';
-  ctx.shadowBlur = 8;
+  // Egg (food)
+  const foodX = food.x * CELL + CELL / 2;
+  const foodY = food.y * CELL + CELL / 2;
+  ctx.fillStyle = '#FFFDE7';
+  ctx.strokeStyle = '#FFD54F';
+  ctx.lineWidth = 1;
+  ctx.shadowColor = '#FFD54F';
+  ctx.shadowBlur = 6;
   ctx.beginPath();
-  ctx.arc(food.x * CELL + CELL / 2, food.y * CELL + CELL / 2, CELL / 2.5, 0, Math.PI * 2);
+  ctx.ellipse(foodX, foodY, CELL / 3, CELL / 2.2, 0, 0, Math.PI * 2);
   ctx.fill();
+  ctx.stroke();
   ctx.shadowBlur = 0;
 
   // Snake

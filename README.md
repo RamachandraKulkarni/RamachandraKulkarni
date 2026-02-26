@@ -258,17 +258,22 @@ graph TD
 </details>
 
 <details>
-<summary>🕹️ <b>Bonus Boss Fight: Play Snake!</b> <i>(leaves profile — external link)</i></summary>
+<summary>🕹️ <b>Bonus Boss Fight: Play Snake!</b> <i>(click to watch the snake hunt eggs)</i></summary>
 <br>
 
 <div align="center">
 
-**Think you've got reflexes? Prove it.**
+**Watch the snake hunt for eggs — classic Nokia style!**
+
+<img src="snake-game.svg" alt="Snake Game Animation" width="480" />
+
+> The snake eats eggs 🥚, grows by one bone each time, and eggs appear
+> at random positions within the game area — just like the old phone game!
+
+**Want to play it yourself?**
 
 ### [🐍 Play Ram's Nokia Snake Game](https://ramachandrakulkarni.github.io/RamachandraKulkarni/snake.html)
 
-> A fully working retro Nokia-style Snake game hosted on GitHub Pages.
-> Eat the apples 🍎, grow longer, don't hit the walls or yourself!
 > **Controls:** Arrow keys / WASD / swipe on mobile / on-screen buttons
 
 *Beat my high score and earn +100 XP bragging rights.*
