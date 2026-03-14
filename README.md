@@ -78,12 +78,12 @@ fun_fact: "I automate the boring stuff so humans can focus on the interesting st
 ## 📊 GitHub Stats — Live Dashboard
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamachandraKulkarni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamachandraKulkarni&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamachandraKulkarni&theme=tokyonight&hide_border=true" />
 </div>
 
 ***
@@ -91,7 +91,7 @@ fun_fact: "I automate the boring stuff so humans can focus on the interesting st
 ## 🏆 Achievement Unlocked 🔓
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RamachandraKulkarni&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 ***
@@ -99,7 +99,7 @@ fun_fact: "I automate the boring stuff so humans can focus on the interesting st
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/RamachandraKulkarni/RamachandraKulkarni/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ***
@@ -107,7 +107,7 @@ fun_fact: "I automate the boring stuff so humans can focus on the interesting st
 ## 🗺️ Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamachandraKulkarni&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ***
