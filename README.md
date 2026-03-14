@@ -119,7 +119,7 @@ fun_fact: "I automate the boring stuff so humans can focus on the interesting st
 
 [
 
-> 🧙 *You have discovered Rama's GitHub dungeon. +50 XP awarded to you!*
+> 🧙 *You have discovered ram's GitHub dungeon. +50 XP awarded to you!*
 
 </div>
 
