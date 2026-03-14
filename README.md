@@ -1,315 +1,145 @@
-```
- ██████╗  █████╗ ███╗   ███╗
- ██╔══██╗██╔══██╗████╗ ████║
- ██████╔╝███████║██╔████╔██║
- ██╔══██╗██╔══██║██║╚██╔╝██║
- ██║  ██║██║  ██║██║ ╚═╝ ██║
- ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
-```
-
+<!-- Header Animated Banner -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ramachandra%20Kulkarni&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Automation%20Architect%20%7C%20Open%20Source%20Builder&descAlignY=55&descSize=16" />
+</div>
 
-*You have entered Ram's profile. Tread carefully — there are easter eggs.* 🥚
-
+<!-- Typing Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rama+%F0%9F%91%8B;Automation+Engineer+%7C+Web+Orchestration+Wizard;Playwright+%7C+TypeScript+%7C+Python+%7C+CI%2FCD;Let's+build+something+amazing+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
-### 🎮 Character Sheet
+## 🧑‍💻 About Me
 
-| Stat | Level |
-|---|---|
-| **Class** | Full-Stack Developer |
-| **Alignment** | Chaotic Caffeinated |
-| **STR** (JavaScript / TypeScript) | █████████░ 90% |
-| **DEX** (Node.js / Express) | ████████░░ 80% |
-| **INT** (Python / Django / Flask) | ████████░░ 80% |
-| **WIS** (AI/ML · PyTorch · TensorFlow) | ███████░░░ 70% |
-| **CHA** (Documentation) | ██████░░░░ …working on it |
-| **HP** | Refills with coffee ☕ |
+```yaml
+name: Ramachandra Kulkarni
+location: Phoenix, Arizona 🌵
+role: Software Engineer & Automation Specialist
+current_focus:
+  - 🎭 Playwright test automation & browser orchestration
+  - 🤖 Workflow automation with Python & TypeScript
+  - ⚙️  CI/CD pipelines with GitHub Actions
+  - 🧠 ML-assisted documentation generation
+fun_fact: "I automate the boring stuff so humans can focus on the interesting stuff."
+` ` `
 
----
+***
 
-### 🏆 Achievements Unlocked
+## 🎮 Dev RPG Card — My Stats
 
-> 🥇 **Midnight Debugger** — Fixed a prod bug at 3 AM. Felt nothing.  
-> 🥈 **Framework Collector** — Tried a new framework before finishing the last one.  
-> 🥉 **Stack Overflow Survivor** — Copy-pasted with *understanding*.  
-> 🏅 **README Completionist** — You're reading the proof.
+> *Every commit levels me up. Here's where I stand:*
 
----
+<div align="center">
 
-<details>
-<summary>🗡️ <b>Dungeon Crawl: Choose Your Path</b> <i>(click to begin your quest)</i></summary>
-<br>
-
-> *You stand at the entrance of a dark dungeon. Torchlight flickers on the stone walls.*
-> *Two passages stretch ahead…*
-
-<details>
-<summary>⬅️ <b>Go Left</b> — A narrow passage with strange carvings</summary>
-<br>
-
-> *The carvings depict ancient algorithms. You feel smarter already. +5 INT.*
->
-> *Ahead, you see a locked chest and a glowing terminal.*
-
-<details>
-<summary>🔓 <b>Pick the Lock</b> — Use your DEX</summary>
-<br>
-
-> *Your nimble fingers work the mechanism…*
-> *Click! The chest opens to reveal:*
->
-> ```
-> ╔══════════════════════════╗
-> ║   🏆 LEGENDARY ITEM      ║
-> ║   "The Golden Commit"     ║
-> ║   +10 to all stats        ║
-> ╚══════════════════════════╝
-> ```
->
-> *Achievement Unlocked: 🔓 Lock Picker — You opened it without `sudo`.*
-
-</details>
-
-<details>
-<summary>💻 <b>Hack the Terminal</b> — Use your INT</summary>
-<br>
-
-> *You type furiously…*
->
-> ```bash
-> $ sudo unlock --force chest.lock
-> [sudo] password for ram: ********
-> Access granted. Decrypting...
-> ```
->
-> *The terminal reveals a secret scroll:*
-> > *"The best code is no code. But the second best is well-documented code."*
->
-> *+5 WIS. Achievement Unlocked: 💻 Terminal Wizard*
-
-</details>
-
-</details>
-
-<details>
-<summary>➡️ <b>Go Right</b> — A wide hall echoing with sounds of battle</summary>
-<br>
-
-> *You enter a grand hall. A wild* ***Bug*** *appears!*
-> *It's a `NullPointerException`… in JavaScript. Terrifying.*
-
-<details>
-<summary>⚔️ <b>Fight the Bug</b> — Use your STR</summary>
-<br>
-
-> *You draw your keyboard and begin typing…*
->
-> ```javascript
-> try {
->   bug.eliminate();
-> } catch (e) {
->   console.log("Nice try, bug.");
->   bug.squash();
-> }
-> ```
->
-> *Critical Hit! The bug is vanquished!*
-> *+10 XP, +5 STR. Achievement Unlocked: ⚔️ Bug Slayer*
-
-</details>
-
-<details>
-<summary>🛡️ <b>Defend with Tests</b> — Use your WIS</summary>
-<br>
-
-> *You write a unit test to trap the bug…*
->
-> ```javascript
-> describe('Bug Defense', () => {
->   it('should not be null', () => {
->     expect(value).not.toBeNull();
->     // The bug screams and dissolves
->   });
-> });
-> ```
->
-> *Tests passing: ✅ The bug is contained!*
-> *+10 XP, +5 WIS. Achievement Unlocked: 🛡️ Test Guardian*
-
-</details>
-
-</details>
-
----
-
-*No matter which path you chose, you survived the dungeon. +20 XP earned.* 🎉
-
-</details>
-
-<details>
-<summary>🌳 <b>Skill Tree</b> <i>(click to view tech progression)</i></summary>
-<br>
-
-```mermaid
-graph TD
-    A["🎮 Start"] --> B["Frontend"]
-    A --> C["Backend"]
-    A --> D["AI / ML"]
-
-    B --> B1["HTML/CSS ✅"]
-    B --> B2["JavaScript ✅"]
-    B2 --> B3["TypeScript ✅"]
-    B3 --> B4["React ⏳"]
-
-    C --> C1["Node.js ✅"]
-    C1 --> C2["Express ✅"]
-    C2 --> C3["Django ✅"]
-    C3 --> C4["System Design ⏳"]
-
-    D --> D1["Python ✅"]
-    D1 --> D2["PyTorch ✅"]
-    D2 --> D3["TensorFlow ⏳"]
-    D3 --> D4["LLMs 🔮"]
-
-    style A fill:#9acd32,color:#000
-    style B1 fill:#2ea043,color:#fff
-    style B2 fill:#2ea043,color:#fff
-    style B3 fill:#2ea043,color:#fff
-    style B4 fill:#d29922,color:#000
-    style C1 fill:#2ea043,color:#fff
-    style C2 fill:#2ea043,color:#fff
-    style C3 fill:#2ea043,color:#fff
-    style C4 fill:#d29922,color:#000
-    style D1 fill:#2ea043,color:#fff
-    style D2 fill:#2ea043,color:#fff
-    style D3 fill:#d29922,color:#000
-    style D4 fill:#8b5cf6,color:#fff
-```
-
-> ✅ Mastered &nbsp;│&nbsp; ⏳ In Progress &nbsp;│&nbsp; 🔮 Next Quest
-
-</details>
-
-<details>
-<summary>🧩 <b>Riddle Gate</b> <i>(solve to pass)</i></summary>
-<br>
-
-> *A hooded guardian blocks your path and speaks:*
->
-> **"I am not a loop, yet I repeat. I am not a function, yet I return.**
-> **I have no body, yet I execute. What am I?"**
-
-<details>
-<summary>💡 <b>Reveal Answer</b></summary>
-<br>
-
-> **Recursion!** 🎉
->
-> *The guardian nods and steps aside. +5 INT and the mass produced respect of every CS professor.*
-
-</details>
-
----
-
-> *Another guardian appears:*
->
-> **"I have keys but no locks. I have space but no room. You can enter but can't go inside. What am I?"**
-
-<details>
-<summary>💡 <b>Reveal Answer</b></summary>
-<br>
-
-> **A Keyboard!** ⌨️
->
-> *The guardian vanishes. +5 WIS. You are worthy.*
-
-</details>
-
-</details>
-
-<details>
-<summary>🗺️ <b>Side Quest: Explore My Projects</b> <i>(click to expand)</i></summary>
-<br>
-
-| Quest | Description | Status |
+| ⚔️ Attribute | 💥 Level | 🏅 XP Bar |
 |---|---|---|
-| [Project One](#) | Web technologies with a dash of geek | ⚔️ Active |
-| [Project Two](#) | Backend services that keep on running | 🛡️ Active |
+| 🎭 Test Automation | ██████████ 10/10 | `▓▓▓▓▓▓▓▓▓▓` MAX |
+| 🐍 Python | ████████░░ 8/10 | `▓▓▓▓▓▓▓▓░░` 800 XP |
+| 🟦 TypeScript | █████████░ 9/10 | `▓▓▓▓▓▓▓▓▓░` 900 XP |
+| ⚙️ CI/CD & DevOps | ████████░░ 8/10 | `▓▓▓▓▓▓▓▓░░` 800 XP |
+| 🧩 HR Systems (Workday) | ████████░░ 8/10 | `▓▓▓▓▓▓▓▓░░` 800 XP |
+| 🌐 Web Scraping | █████████░ 9/10 | `▓▓▓▓▓▓▓▓▓░` 900 XP |
+| 🗃️ Data Automation | █████████░ 9/10 | `▓▓▓▓▓▓▓▓▓░` 900 XP |
 
-*More quests loading…*
-
-</details>
-
-<details>
-<summary>📊 <b>Side Quest: View My Stats</b> <i>(click to expand)</i></summary>
-<br>
-
-<div align="center">
-
-![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamachandraKulkarni&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamachandraKulkarni&layout=compact&theme=tokyonight&hide_border=true)
+> **🏆 Class:** _Automation Mage_ &nbsp;|&nbsp; **⚡ Level:** 42 &nbsp;|&nbsp; **🔥 Streak Bonus:** Active
 
 </div>
 
-</details>
+***
 
-<details>
-<summary>🕹️ <b>Bonus Boss Fight: Play Snake!</b> <i>(leaves profile — external link)</i></summary>
-<br>
+## 🚀 Tech Arsenal
 
 <div align="center">
 
-**Think you've got reflexes? Prove it.**
+### 🎯 Core Languages
 
-### [🐍 Play Ram's Nokia Snake Game](https://ramachandrakulkarni.github.io/RamachandraKulkarni/snake.html)
 
-> A fully working retro Nokia-style Snake game hosted on GitHub Pages.
-> Eat the apples 🍎, grow longer, don't hit the walls or yourself!
-> **Controls:** Arrow keys / WASD / swipe on mobile / on-screen buttons
 
-*Beat my high score and earn +100 XP bragging rights.*
+
+### 🎭 Automation & Testing
+
+
+
+
+### 🛠️ Tools & Platforms
+
+
+
+
+
 
 </div>
 
-</details>
+***
 
-<details>
-<summary>🥚 <b>Secret Room</b> <i>(are you sure?)</i></summary>
-<br>
+## 📊 GitHub Stats — Live Dashboard
 
-You found the easter egg! Here's your mass production, factory made, not-at-all special reward:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</div>
 
-```
-        ___
-       /   \
-      | 🌟  |
-       \___/
-    You gained +1 Curiosity.
-```
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</div>
 
-**Fun fact:** I once mass produced `console.log("here")` across 47 files to find a bug.
-The bug was a missing semicolon. In a Python file. There are no semicolons in Python.
+***
 
-</details>
+## 🏆 Achievement Unlocked 🔓
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
 
-### 📫 How to Reach Me
+***
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your_email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
+## 🐍 Contribution Snake
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+***
+
+## 🗺️ Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+***
+
+## 🧩 Visitor Quest Log
 
 <div align="center">
 
-*Thanks for visiting. You've earned **+10 XP** just for scrolling this far.* ✨
 
-![Visitor Count](https://komarev.com/ghpvc/?username=RamachandraKulkarni&color=blueviolet&style=flat-square&label=Profile+Visitors)
+[
+
+> 🧙 *You have discovered Rama's GitHub dungeon. +50 XP awarded to you!*
 
 </div>
+
+***
+
+## 📬 Connect & Co-op
+
+<div align="center">
+
+[
+[
+[
+
+</div>
+
+<br/>
+
+<div align="center">
+  <i>"The best automation is the one that makes someone's day easier."</i> 🎯
+</div>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
