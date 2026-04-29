@@ -1,0 +1,26 @@
+name: 🎮 Tic Tac Toe — Make a Move
+description: Play a move in the live Tic Tac Toe game on the profile README.
+title: "tictactoe: move "
+labels: ["tictactoe"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### How to play
+        1. Append the cell number you want to play (1-9) to the title above.
+           Example: `tictactoe: move 5`
+        2. Click **Submit new issue**.
+        3. A GitHub Action will play your move, update the board on the
+           [profile README](https://github.com/RamachandraKulkarni/RamachandraKulkarni#readme),
+           comment back here, and close this issue.
+
+        Tip: it's easier to just click a cell on the README — that pre-fills
+        everything for you.
+  - type: input
+    id: move
+    attributes:
+      label: Cell number (1-9)
+      description: Optional — the number in the title is what counts.
+      placeholder: "5"
+    validations:
+      required: false

@@ -1,0 +1,17 @@
+{
+  "board": [" ", " ", " ", " ", " ", " ", " ", " ", " "],
+  "next_player": "X",
+  "winner": null,
+  "winning_line": null,
+  "is_draw": false,
+  "game_number": 1,
+  "move_count": 0,
+  "last_move_by": null,
+  "last_move_cell": null,
+  "scores": {
+    "X": 0,
+    "O": 0,
+    "draws": 0
+  },
+  "history": []
+}
