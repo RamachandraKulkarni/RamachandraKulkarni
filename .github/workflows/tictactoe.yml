@@ -1,0 +1,95 @@
+name: Tic Tac Toe
+
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+    inputs:
+      title:
+        description: "Simulated issue title (e.g. 'tictactoe: move 5')"
+        required: true
+        default: "tictactoe: move 5"
+      user:
+        description: "Simulated player username"
+        required: false
+        default: "manual-tester"
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  play:
+    # Only react to issues whose title starts with "tictactoe" (case-insensitive),
+    # so unrelated issues don't trigger the game pipeline.
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      startsWith(github.event.issue.title, 'tictactoe') ||
+      startsWith(github.event.issue.title, 'Tictactoe') ||
+      startsWith(github.event.issue.title, 'TicTacToe') ||
+      startsWith(github.event.issue.title, 'TICTACTOE') ||
+      startsWith(github.event.issue.title, 'ttt')
+    runs-on: ubuntu-latest
+    concurrency:
+      # Serialize moves so two simultaneous players can't corrupt the board.
+      group: tictactoe-game
+      cancel-in-progress: false
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          # Use the default token; we push back to the same repo.
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Process move
+        id: move
+        env:
+          TTT_ISSUE_TITLE: ${{ github.event_name == 'workflow_dispatch' && inputs.title || github.event.issue.title }}
+          TTT_ISSUE_USER: ${{ github.event_name == 'workflow_dispatch' && inputs.user || github.event.issue.user.login }}
+          TTT_REPO: ${{ github.repository }}
+          TTT_COMMENT_PATH: ${{ github.workspace }}/tictactoe-comment.md
+        run: |
+          python tictactoe/process_move.py
+
+      - name: Commit updated board
+        if: github.event_name != 'workflow_dispatch'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md tictactoe/state.json
+          if git diff --staged --quiet; then
+            echo "No board changes to commit."
+          else
+            git commit -m "tictactoe: move from @${TTT_ISSUE_USER} (issue #${ISSUE_NUMBER})"
+            git push
+          fi
+        env:
+          TTT_ISSUE_USER: ${{ github.event.issue.user.login }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+
+      - name: Comment on issue
+        if: github.event_name == 'issues'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          REPO: ${{ github.repository }}
+          COMMENT_FILE: ${{ github.workspace }}/tictactoe-comment.md
+        run: |
+          if [ -f "$COMMENT_FILE" ]; then
+            gh issue comment "$ISSUE_NUMBER" --repo "$REPO" --body-file "$COMMENT_FILE"
+          fi
+
+      - name: Close issue
+        if: github.event_name == 'issues' && steps.move.outputs.close_issue == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          REPO: ${{ github.repository }}
+        run: |
+          gh issue close "$ISSUE_NUMBER" --repo "$REPO" --reason completed || true

@@ -104,6 +104,27 @@ fun_fact: "I automate the boring stuff so humans can focus on the interesting st
 
 ***
 
+<!-- TICTACTOE:START -->
+## 🎮 Live Tic Tac Toe — Powered by GitHub Actions
+
+> Click any numbered cell below to play your move. A GitHub Action picks it up,
+> updates this board for everyone, comments back on your issue, and closes it.
+> Prefer to play solo? Open [`tictactoe.html`](./tictactoe.html) for an offline
+> arcade version (with an unbeatable CPU 🤖).
+
+|     |     |     |
+| :-: | :-: | :-: |
+| [**1**](https://github.com/RamachandraKulkarni/RamachandraKulkarni/issues/new?title=tictactoe%3A%20move%201&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A%20to%20play%20this%20move.) | [**2**](https://github.com/RamachandraKulkarni/RamachandraKulkarni/issues/new?title=tictactoe%3A%20move%202&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A%20to%20play%20this%20move.) | [**3**](https://github.com/RamachandraKulkarni/RamachandraKulkarni/issues/new?title=tictactoe%3A%20move%203&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A%20to%20play%20this%20move.) |
+| [**4**](https://github.com/RamachandraKulkarni/RamachandraKulkarni/issues/new?title=tictactoe%3A%20move%204&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A%20to%20play%20this%20move.) | [**5**](https://github.com/RamachandraKulkarni/RamachandraKulkarni/issues/new?title=tictactoe%3A%20move%205&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A%20to%20play%20this%20move.) | [**6**](https://github.com/RamachandraKulkarni/RamachandraKulkarni/issues/new?title=tictactoe%3A%20move%206&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A%20to%20play%20this%20move.) |
+| [**7**](https://github.com/RamachandraKulkarni/RamachandraKulkarni/issues/new?title=tictactoe%3A%20move%207&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A%20to%20play%20this%20move.) | [**8**](https://github.com/RamachandraKulkarni/RamachandraKulkarni/issues/new?title=tictactoe%3A%20move%208&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A%20to%20play%20this%20move.) | [**9**](https://github.com/RamachandraKulkarni/RamachandraKulkarni/issues/new?title=tictactoe%3A%20move%209&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A%20to%20play%20this%20move.) |
+
+➡️ **Next turn:** ❌ (**X**) — click any numbered cell above to play.
+
+**Scoreboard** — ❌ X: `0` &nbsp;|&nbsp; ⭕ O: `0` &nbsp;|&nbsp; 🤝 Draws: `0` &nbsp;|&nbsp; 🎮 Game: `#1`
+<!-- TICTACTOE:END -->
+
+***
+
 ## 🗺️ Activity Graph
 
 <div align="center">
