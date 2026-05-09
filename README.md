@@ -1,91 +1,85 @@
-<!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ramachandra%20Kulkarni&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Automation%20%C2%B7%20Web%20Orchestration&descAlignY=60&descSize=15&animation=fadeIn" />
+
+<!-- Name + role -->
+# Ramachandra Kulkarni
+
+`software engineer · test automation · phoenix, az`
+
+<br/>
+
+<!-- Single tagline, palette-matched -->
+<a href="https://github.com/RamachandraKulkarni">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=CBA6F7&center=true&vCenter=true&width=560&lines=building+reliable+browser+automation;turning+manual+QA+into+CI+pipelines;playwright+%C2%B7+typescript+%C2%B7+python" alt="" />
+</a>
+
+<br/><br/>
+
+<!-- Compact contact row, palette-matched -->
+<a href="https://www.linkedin.com/in/ramachandrakulkarni"><img src="https://img.shields.io/badge/LinkedIn-1e1e2e?style=flat-square&logo=linkedin&logoColor=89b4fa&labelColor=1e1e2e" /></a>
+<a href="mailto:ramachandra.kulkarni@example.com"><img src="https://img.shields.io/badge/Email-1e1e2e?style=flat-square&logo=gmail&logoColor=f38ba8&labelColor=1e1e2e" /></a>
+<a href="https://github.com/RamachandraKulkarni"><img src="https://img.shields.io/github/followers/RamachandraKulkarni?style=flat-square&label=followers&labelColor=1e1e2e&color=313244&logo=github&logoColor=cdd6f4" /></a>
+<img src="https://komarev.com/ghpvc/?username=RamachandraKulkarni&style=flat-square&labelColor=1e1e2e&color=313244&label=views" />
+
 </div>
 
-<!-- Typing tagline -->
-<div align="center">
-  <a href="https://github.com/RamachandraKulkarni">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=00C9FF&center=true&vCenter=true&width=620&lines=Software+Engineer+based+in+Phoenix%2C+AZ;Building+reliable+test+automation+at+scale;Playwright+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+CI%2FCD" alt="Typing SVG" />
-  </a>
-</div>
+<br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ramachandrakulkarni"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ramachandra.kulkarni@example.com"><img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/RamachandraKulkarni"><img src="https://img.shields.io/github/followers/RamachandraKulkarni?style=flat-square&label=Follow&logo=github&color=181717&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=RamachandraKulkarni&style=flat-square&color=2c5364&label=Profile+Views" />
+## ` ~ ` &nbsp; about
+
+I build **browser automation, test infrastructure, and developer tooling**. I like turning brittle manual QA into reliable pipelines, and shipping internal tools that other engineers actually want to use.
+
+- &nbsp;working on Playwright frameworks and CI/CD orchestration
+- &nbsp;exploring AI-assisted testing and observability for test suites
+- &nbsp;ask me about flaky-test triage, e2e strategy, or scraping at scale
+
+<br/>
+
+## ` ~ ` &nbsp; stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-1e1e2e?style=flat-square&logo=typescript&logoColor=89b4fa&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=flat-square&logo=javascript&logoColor=f9e2af&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Python-1e1e2e?style=flat-square&logo=python&logoColor=89b4fa&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/SQL-1e1e2e?style=flat-square&logo=postgresql&logoColor=89dceb&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Bash-1e1e2e?style=flat-square&logo=gnubash&logoColor=a6e3a1&labelColor=1e1e2e" />
 </p>
 
----
+<p>
+  <img src="https://img.shields.io/badge/Playwright-1e1e2e?style=flat-square&logo=playwright&logoColor=a6e3a1&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Selenium-1e1e2e?style=flat-square&logo=selenium&logoColor=a6e3a1&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Cypress-1e1e2e?style=flat-square&logo=cypress&logoColor=cdd6f4&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Jest-1e1e2e?style=flat-square&logo=jest&logoColor=f38ba8&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Pytest-1e1e2e?style=flat-square&logo=pytest&logoColor=89b4fa&labelColor=1e1e2e" />
+</p>
 
-## About
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-1e1e2e?style=flat-square&logo=githubactions&logoColor=89b4fa&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Docker-1e1e2e?style=flat-square&logo=docker&logoColor=89b4fa&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/AWS-1e1e2e?style=flat-square&logo=amazonaws&logoColor=fab387&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Linux-1e1e2e?style=flat-square&logo=linux&logoColor=f9e2af&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Git-1e1e2e?style=flat-square&logo=git&logoColor=fab387&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Node.js-1e1e2e?style=flat-square&logo=nodedotjs&logoColor=a6e3a1&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Postman-1e1e2e?style=flat-square&logo=postman&logoColor=fab387&labelColor=1e1e2e" />
+</p>
 
-Software engineer focused on **browser automation, test infrastructure, and developer tooling**. I like turning brittle manual workflows into reliable pipelines and shipping tooling that other engineers actually want to use.
+<br/>
 
-- 🔭 Currently working on Playwright-based automation frameworks and CI/CD orchestration
-- 🌱 Exploring AI-assisted testing, contract testing, and observability for test suites
-- 📍 Phoenix, Arizona
-- 💬 Ask me about end-to-end testing strategy, flaky-test triage, or scraping at scale
-
----
-
-## Tech Stack
-
-#### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### Automation & Testing
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
-#### DevOps & Cloud
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-#### Tools & Platforms
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Workday](https://img.shields.io/badge/Workday-F38B00?style=for-the-badge&logo=workday&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## GitHub Stats
+## ` ~ ` &nbsp; stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RamachandraKulkarni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamachandraKulkarni&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RamachandraKulkarni&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true&bg_color=1e1e2e&icon_color=cba6f7&text_color=cdd6f4&title_color=cba6f7" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamachandraKulkarni&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamachandraKulkarni&hide_border=true&background=1e1e2e&stroke=313244&ring=cba6f7&fire=f38ba8&currStreakNum=cdd6f4&currStreakLabel=cba6f7&sideNums=cdd6f4&sideLabels=cdd6f4&dates=a6adc8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamachandraKulkarni&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamachandraKulkarni&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=1e1e2e&text_color=cdd6f4&title_color=cba6f7" />
 </div>
 
----
-
-## Contribution Graph
+<br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RamachandraKulkarni/RamachandraKulkarni/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-</div>
-
----
-
-<div align="center">
-  <sub>Open to collaboration on automation, testing infrastructure, and developer tooling.</sub>
+  <sub>open to collaboration on automation, testing infrastructure, and developer tooling.</sub>
 </div>
