@@ -80,6 +80,18 @@ I build **browser automation, test infrastructure, and developer tooling**. I li
 
 <br/>
 
+## ` ~ ` &nbsp; contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RamachandraKulkarni/RamachandraKulkarni/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RamachandraKulkarni/RamachandraKulkarni/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/RamachandraKulkarni/RamachandraKulkarni/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
 <div align="center">
   <sub>open to collaboration on automation, testing infrastructure, and developer tooling.</sub>
 </div>
